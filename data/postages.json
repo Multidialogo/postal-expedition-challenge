@@ -1,0 +1,196 @@
+{
+  "vectors": [
+    {
+      "name": "Poste Italiane",
+      "code": "PT",
+      "postages": [
+        {
+          "name": "Posta4 Ordinaria",
+          "code": "P4",
+          "registered": false,
+          "delivery": {
+            "it": {
+              "days": 4,
+              "price": 1.1
+            }
+          }
+        },
+        {
+          "name": "Posta1 Prioritaria",
+          "code": "P1",
+          "registered": false,
+          "delivery": {
+            "it": {
+              "days": 1,
+              "price": 2.8
+            }
+          }
+        },
+        {
+          "name": "Raccomandata",
+          "code": "R",
+          "registered": true,
+          "delivery": {
+            "it": {
+              "days": 4,
+              "price": 5.4
+            }
+          }
+        },
+        {
+          "name": "Raccomandata1",
+          "code": "R1",
+          "shippingDays": "1",
+          "registered": true,
+          "delivery": {
+            "it": {
+              "days": 1,
+              "price": 6.9
+            }
+          }
+        },
+        {
+          "name": "Raccomandata1 con prova di consegna",
+          "code": "RP1",
+          "registered": true,
+          "delivery": {
+            "it": {
+              "days": 1,
+              "price": 10.9
+            }
+          }
+        },
+        {
+          "name": "Postapriority Internazionale",
+          "code": "PI",
+          "registered": false,
+          "delivery": {
+            "ar": {
+              "days": 8,
+              "price": 4.5
+            },
+            "au": {
+              "days": 8,
+              "price": 5.5
+            },
+            "br": {
+              "days": 8,
+              "price": 4.5
+            },
+            "ca": {
+              "days": 6,
+              "price": 4.5
+            },
+            "cg": {
+              "days": 9,
+              "price": 4.5
+            },
+            "cn": {
+              "days": 8,
+              "price": 4.5
+            },
+            "cm": {
+              "days": 9,
+              "price": 4.5
+            },
+            "de": {
+              "days": 3,
+              "price": 3.5
+            },
+            "eg": {
+              "days": 5,
+              "price": 3.5
+            },
+            "es": {
+              "days": 3,
+              "price": 3.5
+            },
+            "fr": {
+              "days": 3,
+              "price": 3.5
+            },
+            "jp": {
+              "days": 8,
+              "price": 4.5
+            },
+            "ma": {
+              "days": 5,
+              "price": 3.5
+            },
+            "ng": {
+              "days": 9,
+              "price": 4.5
+            },
+            "nz": {
+              "days": 8,
+              "price": 5.5
+            },
+            "tn": {
+              "days": 5,
+              "price": 3.5
+            },
+            "us": {
+              "days": 6,
+              "price": 4.5
+            }
+          }
+        },
+        {
+          "name": "Raccomandata Internazionale",
+          "code": "RI",
+          "registered": true,
+          "delivery": {
+            "ar": {
+              "days": 20,
+              "price": 8.4
+            },
+            "cn": {
+              "days": 20,
+              "price": 8.4
+            },
+            "cm": {
+              "days": 20,
+              "price": 8.4
+            },
+            "de": {
+              "days": 6,
+              "price": 7.1
+            },
+            "eg": {
+              "days": 10,
+              "price": 7.1
+            },
+            "es": {
+              "days": 6,
+              "price": 7.1
+            },
+            "fr": {
+              "days": 6,
+              "price": 7.1
+            },
+            "jp": {
+              "days": 20,
+              "price": 8.4
+            },
+            "ng": {
+              "days": 20,
+              "price": 8.4
+            },
+            "nz": {
+              "days": 14,
+              "price": 9.5
+            },
+            "tn": {
+              "days": 10,
+              "price": 7.1
+            },
+            "us": {
+              "days": 14,
+              "price": 8.4
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
