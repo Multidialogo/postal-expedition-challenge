@@ -28,7 +28,7 @@ The user indicates if he want to use a registered or unregistered type of postag
 ### Postage selection
 
 The postage selection menu is populated after the country and registration type selection, excluding postages that are
-not available for the select country and does not meet the registration requirement.
+not available for the select country and does not meet the registration requirement (true or false).
 
 Any selectable postal options shows the price and the delivery time in days, inferred from the country, next to the 
 postage name. (Prices are intended in Euro)
