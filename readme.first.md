@@ -5,6 +5,12 @@ most idiomatic way.
 
 The repository must contain a readme.md file that explains how to install and run the project.
 
+## Delivery of the test
+
+Test must be forked from this public repository, and then developed on own github account.
+
+Send back the address of the page implementing the project to: selezione@multidialogo.it.
+
 ## Track: International shipping
 
 ### Country selection
@@ -99,9 +105,9 @@ E.G.
 }
 ```
 
-Send the resulting json object by email to selezione@multidialogo.it, submitting the form. 
+Send the resulting json object as **body** by email to ignore.me@multidialogo.it, pressing submit form.
 
-**Hint** You can use a mailto link and uri encoding
+**Hint**: You can use a mailto link and uri encoding for the body parameter.
 
 
 
