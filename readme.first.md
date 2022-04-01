@@ -1,6 +1,6 @@
 # Develop a web application with Aurelia framework 2
 
-The application must be realized used the [https://aurelia.io/](Aurelia framework) ver.2, using the framework in the 
+The application must be realized used the [https://aurelia.io](Aurelia framework) ver.2, using the framework in the 
 most idiomatic way.
 
 The repository must contain a readme.md file that explains how to install and run the project.
